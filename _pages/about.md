@@ -37,8 +37,7 @@ Currently, I work as a Research Associate at Carnegie Mellon University Africa, 
 
 I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the Federal University of Agriculture, Abeokuta, Nigeria. During my master's program, I developed a novel soft robotic gripper that demonstrated improved adaptability in unstructured environments, sparking my passion for robotics innovation.
 
-Over the years, I’ve had the privilege of working on impactful projects that bridge technology and real-world applications. My academic journey has been driven by a desire to create intelligent systems that can meaningfully interact with humans and their environments.
+Outside of research, I am a nature enthusiast who enjoys watching animal documentaries, visiting natural parks, and tinkering with electronics. These hobbies inspire me to think creatively about how robotics can learn from and interact with the natural world.
 
-Outside of research, I am a nature enthusiast who enjoys watching animal documentaries, visiting natural parks, and tinkering with electronics. These hobbies inspire me to think creatively about how robotics can learn from and interact with the natural world. I am excited to join Monash University and contribute to cutting-edge advancements in robotics.
-
-For more information about my work and research, please explore this site or feel free to reach out via [email/contact form].
+For more information about my work and research, please explore the [Research](/adedayoakinade.github.io/projects/) and [Publications](/adedayoakinade.github.io/publications/) sections of this site, or reach out via email.
+please explore this site or feel free to reach out via [email/contact form].
