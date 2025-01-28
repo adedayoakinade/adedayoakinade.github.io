@@ -31,11 +31,11 @@ social: true # includes social icons at the bottom of the page
 # Outside of research, I am an avid video gamer, and enjoy exploring the intersection of technology and human life.
 
 # For more information about my work, please explore the [Research] and [Publications] sections of this site, or reach out via email. -->
-I am an incoming Ph.D. student in Robotics at Monash University, where I will focus on soft robotics, human-robot interaction, and robot manipulation. My research aims to explore tactile sensing and the potential applications of foundation models in robotics to advance human-robot collaboration and autonomy.
+I am an incoming Ph.D. student in Robotics at [Monash University](https://www.monash.edu/), where I will focus on soft robotics, human-robot interaction, and robot manipulation. My research aims to explore tactile sensing and the potential applications of foundation models in robotics to advance human-robot collaboration and autonomy.
 
-Currently, I work as a Research Associate at Carnegie Mellon University Africa, where I serve as the Systems Integrator for the CSSR4A project. In this role, I design and integrate complex systems to support cutting-edge research in robotics and AI applications for Africa.
+Currently, I work as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I am responsible for ensuring the software eing produced as part of the project are robust and satisfy the software engineering standard.
 
-I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the Federal University of Agriculture, Abeokuta, Nigeria. During my master's program, I developed a novel soft robotic gripper that demonstrated improved adaptability in unstructured environments, sparking my passion for robotics innovation.
+I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the Federal University of Agriculture, Abeokuta, Nigeria. During my master's degree studies, I developed a biological motion enable gesture system for humanoid robots which was designed to minimize jerk in the robot's movement during gesture execution. 
 
 Outside of research, I am a nature enthusiast who enjoys watching animal documentaries, visiting natural parks, and tinkering with electronics. These hobbies inspire me to think creatively about how robotics can learn from and interact with the natural world.
 
