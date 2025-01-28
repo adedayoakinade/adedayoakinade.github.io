@@ -35,9 +35,8 @@ I am an incoming Ph.D. student in Robotics at [Monash University](https://www.mo
 
 Currently, I work as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I am responsible for ensuring the software eing produced as part of the project are robust and satisfy the software engineering standard.
 
-I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the Federal University of Agriculture, Abeokuta, Nigeria. During my master's degree studies, I developed a biological motion enable gesture system for humanoid robots which was designed to minimize jerk in the robot's movement during gesture execution. 
+I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the [Federal University of Agriculture](https://funaab.edu.ng/), Abeokuta, Nigeria. During my master's degree studies, I developed a biological motion enable gesture system for humanoid robots which was designed to minimize jerk in the robot's movement during gesture execution. 
 
 Outside of research, I am a nature enthusiast who enjoys watching animal documentaries, visiting natural parks, and tinkering with electronics. These hobbies inspire me to think creatively about how robotics can learn from and interact with the natural world.
 
-For more information about my work and research, please explore the [Research](/projects/) and [Publications](/publications/) sections of this site, or reach out via email.
-please explore this site or feel free to reach out via [email/contact form].
+For more information about my work and research, please explore the [Research](/projects/) and [Publications](/publications/) sections of this site, or reach out via any of the contact channels below.
