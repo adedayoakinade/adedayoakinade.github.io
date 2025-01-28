@@ -39,5 +39,5 @@ I hold a Master of Science in Electrical and Computer Engineering (Advanced Stud
 
 Outside of research, I am a nature enthusiast who enjoys watching animal documentaries, visiting natural parks, and tinkering with electronics. These hobbies inspire me to think creatively about how robotics can learn from and interact with the natural world.
 
-For more information about my work and research, please explore the [Research](/adedayoakinade.github.io/projects/) and [Publications](/adedayoakinade.github.io/publications/) sections of this site, or reach out via email.
+For more information about my work and research, please explore the [Research](/projects/) and [Publications](/publications/) sections of this site, or reach out via email.
 please explore this site or feel free to reach out via [email/contact form].
