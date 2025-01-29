@@ -56,6 +56,17 @@
       "endDate": "2024-05-12",
       "score": "10",
       "courses": ["Robotics", "Machine Learning", "Reinforcement Learning", "Computer Vision", "Embedded Systems"]
+    },
+    {
+      "institution": "Federal University of Agriculture, Abeokuta",
+      "location": "Abeokuta, Nigeria",
+      "url": "https://funaab.edu.ng/",
+      "area": "Mechatronics Engineering",
+      "studyType": "BEng",
+      "startDate": "2014-12-02",
+      "endDate": "2021-01-07",
+      "score": "10",
+      "courses": ["Robotics", "Control", "Digital Systems", "Automation", "Embedded Systems"]
     }
   ],
   "awards": [
