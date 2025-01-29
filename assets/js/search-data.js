@@ -502,6 +502,20 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/adedayoakinade", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0009-3917-4204", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Adedayo-Akinade-2/", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
