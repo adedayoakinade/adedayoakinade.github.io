@@ -23,13 +23,13 @@ email: adedayo.akinade@monash.edu # your email address
 linkedin_username: adedayoakinade # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0009-3917-4204 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
+research_gate_profile: https://www.researchgate.net/profile/Adedayo-Akinade-2 # your profile on ResearchGate
+rss_icon: false # set to true to show the RSS icon
 scholar_userid: drFv8acAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
