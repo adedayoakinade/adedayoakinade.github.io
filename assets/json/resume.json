@@ -8,17 +8,17 @@
     "url": "https://adedayoakinade.github.io/",
     "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Carnegie Mellon University Africa, Kigali Innovation City",
+      "postalCode": "",
+      "city": "Kigali",
+      "countryCode": "RW",
+      "region": "Rwanda"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Akinade_Adedayo",
+        "url": "https://twitter.com/Akinade_Adedayo"
       }
     ]
   },
@@ -26,7 +26,7 @@
     {
       "name": "AI & Robotics Lab, Carnegie Mellon University",
       "position": "Research Associstae",
-      "url": "https://example.com",
+      "url": "https://www.africa.engineering.cmu.edu/",
       "startDate": "2023-09-01",
       "endDate": "2025-06-30",
       "summary": "",
@@ -34,16 +34,7 @@
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+    
   ],
   "education": [
     {
@@ -51,7 +42,7 @@
       "location": "Kigali, Rwanda",
       "url": "https://www.africa.engineering.cmu.edu/",
       "area": "Electrical and Computer Engineering - Advanced Study",
-      "studyType": "M.Sc",
+      "studyType": "M.Sc.",
       "startDate": "2022-08-28",
       "endDate": "2024-05-12",
       "score": "10",
