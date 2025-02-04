@@ -53,7 +53,7 @@
       "location": "Abeokuta, Nigeria",
       "url": "https://funaab.edu.ng/",
       "area": "Mechatronics Engineering",
-      "studyType": "B.Eng",
+      "studyType": "B.Eng.",
       "startDate": "2014-12-02",
       "endDate": "2021-01-07",
       "score": "10",
@@ -71,8 +71,8 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
+      "name": "Project Management Professional (PMP)",
+      "date": "2019",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
