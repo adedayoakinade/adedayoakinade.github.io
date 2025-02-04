@@ -18,12 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.  -->
-
 I am an incoming Ph.D. student in Robotics at [Monash University](https://www.monash.edu), where I will focus on soft robotics, robot manipulation, and human-robot interaction. My research aims to explore tactile sensing and the potential applications of foundation models in robotics to advance human-robot collaboration and autonomy.
 
 Currently, I work as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I am responsible for ensuring the software produced as part of the project are robust and satisfy the software engineering standard.
