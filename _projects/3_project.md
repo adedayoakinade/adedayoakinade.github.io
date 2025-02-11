@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Culturaly Sensitive Robotics for Africa
+description: # a project that redirects to another website
+img: assets/img/CSSRforAfrica_logo_red.png
+redirect: https://cssr4africa.github.io/
+importance: 1
 category: work
 ---
 
