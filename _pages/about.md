@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://africa.engineering.cmu.edu'>Carnegie Mellon University</a>. <a href='www.monash.edu'>Monash University</a>. # Contacts. Motto. Etc.
+subtitle: <a href='https://africa.engineering.cmu.edu'>Carnegie Mellon University</a>. <a href='https://monash.edu'>Monash University</a>. # Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a Ph.D. student in Robotics at [Monash University](www.monash.edu), where my research focus is on soft robotics, robot manipulation, and human-robot interaction. My research aims to explore tactile sensing and the potential applications of model-free RL in robotics to advance soft robot manipulation.
+I am a Ph.D. student in Robotics at [Monash University](https://monash.edu), where my research focus is on soft robotics, robot manipulation, and human-robot interaction. My research aims to explore tactile sensing and the potential applications of model-free RL in robotics to advance soft robot manipulation.
 
 Currently, I also work as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I am responsible for ensuring the software produced as part of the project are robust and satisfy the software engineering standard.
 
