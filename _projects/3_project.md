@@ -2,7 +2,7 @@
 layout: page
 title: Culturaly Sensitive Robotics for Africa
 description: # a project that redirects to another website
-img: assets/img/CSSRforAfrica_logo_red.png
+img: assets/img/CSSR4AfricaLogo.svg
 redirect: https://cssr4africa.github.io/
 importance: 1
 category: work
