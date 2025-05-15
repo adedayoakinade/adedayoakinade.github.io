@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.africa.engineering.cmu.edu/'>Carnegie Mellon University</a>. <a href='https://www.monash.edu'>Monash University</a>. # Contacts. Motto. Etc.
+subtitle: <a href='https://africa.engineering.cmu.edu/'>Carnegie Mellon University</a>. <a href='https://monash.edu'>Monash University</a>. # Contacts. Motto. Etc.
 
 profile:
   align: right
