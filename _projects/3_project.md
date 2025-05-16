@@ -5,7 +5,7 @@ description: # a project that redirects to another website
 img: assets/img/CSSR4AfricaLogo.svg
 redirect: https://cssr4africa.github.io/
 importance: 1
-category: work
+category: Professional
 ---
 
 Every project has a beautiful feature showcase page.
