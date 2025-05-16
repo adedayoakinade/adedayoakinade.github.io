@@ -3,12 +3,12 @@
     "name": "Adedayo Akinade",
     "label": "",
     "image": "",
-    "email": "adedayo.akinade@monash.edu, aakinade@alumni.cmu.edu",
-    "phone": "(234) 816-375-1034, (250) 790-394-814",
+    "email": "adedayo.akinade@monash.edu",
+    "phone": "(234) 816-375-1034",
     "url": "https://adedayoakinade.github.io/",
     "summary": "",
     "location": {
-      "address": "Carnegie Mellon University Africa, Kigali Innovation City",
+      "address": "Carnegie Mellon University Africa",
       "postalCode": "",
       "city": "Kigali",
       "countryCode": "RW",
@@ -43,7 +43,6 @@
     }
   ],
   "volunteer": [
-    
   ],
   "education": [
     {
@@ -145,7 +144,6 @@
     }
   ],
   "references": [
-
   ],
   "projects": [
     {
