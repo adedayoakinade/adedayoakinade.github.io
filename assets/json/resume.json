@@ -171,7 +171,7 @@
   ],
   "projects": [
     {
-      "name": "CSSR4Africa – Culturally Sensitive Social Robotics for Africa, 2023-2025 (Ongoing)",
+      "name": "Culturally Sensitive Social Robotics for Africa",
       "summary": "While technological invention creates new ways of doing things, it is innovation that produces social and economic benefits through widespread adoption and the consequent change in the people’s practices. Adoption depends on physical infrastructure, but it also depends on social infrastructure: the conventions that govern people’s behaviour, the practices they find acceptable and unacceptable, and their sense of what is trustworthy. Cultural competence, i.e., an awareness of social norms and cultural expectations, is a key element in fostering this acceptance. The need for technology to be culturally competent is perhaps best exemplified by the field of social robotics, a field that is growing quickly.1 Social robots will serve people in a variety of ways: operating in everyday environments, often in open spaces such as hospitals, exhibition centres, and airports, providing assistance to people, typically in the form of advice, guidance, or information. Loosely based on ethnographic research to acquire cultural knowledge about acceptable modes of communication, the CSSR4Africa project will equip robots with the ability to interact sensitively and politely with people in Africa using spatial, non-verbal, and verbal modes of communication.",
       "highlights": ["Social Robotics", "Cultural Sensitivity"],
       "startDate": "2023-06-01",
