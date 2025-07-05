@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room A307, AI & Robotics Lab</p>
-    <p>Carnegie Mellon University Africa</p>
-    <p>Kigali, Rwanda</p>
+    <p>B36 G06 18 Alliance Lane</p>
+    <p>Monash University</p>
+    <p>Clayton, VIC, Australia</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
