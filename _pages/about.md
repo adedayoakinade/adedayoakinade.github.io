@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  # Contacts. Motto. Etc.
+subtitle:  <a href='https://www.monash.edu/'>Monash University</a> # Contacts. Motto. Etc.
 
 profile:
   align: right
