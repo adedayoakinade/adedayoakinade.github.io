@@ -7,6 +7,8 @@ repo_description_lines_max: 2
 github_repos:
   - adedayoakinade/Smart-Car-Using-Arduino
   - adedayoakinade/panda_robot_calibration_toolbox
+  - cssr4africa/cssr4africa
+  - cssr4africa/software-installation-scripts
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
