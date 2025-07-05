@@ -24,22 +24,40 @@
   },
   "work Experience": [
     {
+      "name": "Monash University",
+      "position": "Teaching Associate",
+      "url": "https://www.monash.edu/engineering/",
+      "startDate": "2025-02-18",
+      "endDate": "Present",
+      "summary": "Intelligent Robotics",
+      "highlights": [""]
+    },
+    {
+      "name": "Robotics Lab, Monash University",
+      "position": "Research Assistant",
+      "url": "www.monash.edu/engineering/robotics/",
+      "startDate": "2025-02-18",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Robot Manipulation, Reinforcement Learning", "Soft Robotics"]
+    },
+    {
       "name": "AI & Robotics Lab, Carnegie Mellon University",
       "position": "Research Associate",
       "url": "https://www.africa.engineering.cmu.edu/",
       "startDate": "2023-09-01",
       "endDate": "2025-06-30",
       "summary": "",
-      "highlights": ["Systems Integration, Robotics"]
+      "highlights": ["Systems Integration, Robotics Software Devlopment, Computer Vision", "Human Robot Interaction"]
     },
     {
       "name": "BioRobotics Lab, Swiss Federal Technology Institute of Lausanne",
       "position": "Research Assistant",
-      "url": "https://www.africa.engineering.cmu.edu/",
+      "url": "https://www.epfl.ch/labs/biorob/",
       "startDate": "2023-08-28",
-      "endDate": "2023-07-01",
+      "endDate": "2023-06-01",
       "summary": "An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research",
-      "highlights": ["Embedded Systems, Firmware Development, Reinfoecement Learning"]
+      "highlights": ["Embedded Systems, Firmware Development, Reinforecement Learning"]
     }
   ],
   "volunteer": [
