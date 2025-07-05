@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a Ph.D. student in Robotics at [Monash University](https://monash.edu/), where my research focus is on soft robotics, robot manipulation, and human-robot interaction. My research aims to explore tactile sensing and the potential applications of model-free RL in robotics to advance soft robot manipulation.
 
-Currently, I also work as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I am responsible for ensuring the software produced as part of the project are robust and satisfy the software engineering standard.
+Previously, I had worked as a Research Associate at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I serve as the Systems Integrator for the [CSSR4A project](https://cssr4africa.github.io/). In this role, I was responsible for ensuring the software produced as part of the project are robust and satisfy the software engineering standard.
 
 I hold a Master of Science in Electrical and Computer Engineering (Advanced Studies) from Carnegie Mellon University and a Bachelor of Engineering in Mechatronics Engineering from the [Federal University of Agriculture](https://funaab.edu.ng/), Abeokuta, Nigeria. During my master's degree studies, I developed a biological motion  gesture execution system for humanoid robots which was designed to minimize jerk in the robot's movement during gesture execution. 
 
