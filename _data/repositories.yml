@@ -1,11 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - adedayoakinade
+  - cssr4africa
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - adedayoakinade/Smart-Car-Using-Arduino
+  - adedayoakinade/panda_robot_calibration_toolbox
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
