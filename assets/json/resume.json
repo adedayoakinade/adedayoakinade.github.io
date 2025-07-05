@@ -27,15 +27,14 @@
       "name": "Monash University",
       "position": "Teaching Associate",
       "url": "https://www.monash.edu/engineering/",
-      "startDate": "2025-02-18",
+      "startDate": "2025-06-25",
       "endDate": "Present",
-      "summary": "Intelligent Robotics",
-      "highlights": [""]
+      "summary": "Intelligent Robotics and Engineering Design Courses"
     },
     {
       "name": "Robotics Lab, Monash University",
       "position": "Research Assistant",
-      "url": "www.monash.edu/engineering/robotics/",
+      "url": "https://www.monash.edu/engineering/robotics/",
       "startDate": "2025-02-18",
       "endDate": "Present",
       "summary": "",
@@ -64,8 +63,8 @@
   ],
   "education": [
     {
-      "institution": "Caregie Mellon University Africa, Rwanda",
-      "location": "Kigali, Rwanda",
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, USA",
       "url": "https://www.africa.engineering.cmu.edu/",
       "area": "Electrical and Computer Engineering - Advanced Study",
       "studyType": "M.Sc.",
@@ -106,7 +105,14 @@
   ],
   "selected Publications": [
     {
-      "name": " Culturally competent social robots target inclusion in Africa.",
+      "name": "Biological Motion Aids Gestural Communication by Humanoid Social Robots",
+      "publisher": "International Journal of Humanoid Robotics",
+      "releaseDate": "2025-01",
+      "url": "https://doi.org/10.1142/S021984362550001X",
+      "summary": "Advances in social robotics have led to increased interest in designing robots that can communicate effectively with humans through non-verbal gestures. One approach to enhancing the naturalness and expressiveness of robot gestures is to incorporate biological motion, which mimics the velocity and acceleration profiles observed in human gestures. This paper examines the use of biological motion for gestural communication by humanoid social robots, focusing on the impact of biological motion on the perceived warmth and effectiveness of robot gestures in fostering engagement while interacting with these robots. The exercise involved implementing the minimum jerk model of biological motion on a Pepper humanoid social robot and conducting user studies to evaluate the impact of biological motion on human-robot interaction. The results show that incorporating biological motion cues can significantly increase the perceived warmth of robot gestures and improve the overall effectiveness of gestural communication, resulting in more natural and engaging human-robot interaction."
+    },
+    {
+      "name": "Culturally competent social robots target inclusion in Africa",
       "publisher": "Science Robotics",
       "releaseDate": "2023-12-13",
       "url": "https://www.science.org/doi/10.1126/scirobotics.adm7012",
