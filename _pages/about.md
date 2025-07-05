@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <a href='https://www.monash.edu/'>Monash University</a> # Contacts. Motto. Etc.
+subtitle: <a href='https://www.monash.edu/'>Monash University</a> # Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B36 G06 18 Alliance Lane</p>
-    <p>Monash University</p>
+    <p>B36 G06, 18 Alliance Lane</p>
+    <p>Monash University,</p>
     <p>Clayton, VIC, Australia</p>
 
 news: false # includes a list of news items
