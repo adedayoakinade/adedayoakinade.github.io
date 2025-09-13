@@ -443,8 +443,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
-            },},{id: "teaching-robotics-principles-and-practice",
-          title: 'Robotics: Principles and Practice',
+            },},{id: "teaching-",
+          title: '',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_teaching/";
