@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses I have taught.
+description: # Courses I have taught.
 nav: true
 nav_order: 6
 display_categories: [Carnegie Mellon University, Monash University]
@@ -10,7 +10,7 @@ horizontal: true
 ---
 
 
-For now, this page is assumed to be a static description of the courses. 
+This page contains courses I have taught, organized bu institutions.
 <!-- You can convert it to a collection similar to `_projects_/` so that you can have a dedicated page for each course. -->
 
 Organize your courses by years, topics, or universities, however you like!
