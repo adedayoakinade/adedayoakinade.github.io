@@ -204,6 +204,7 @@ exclude:
   - vendor
   - _pages/blog.md  
   - _projects/ununsed/
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
