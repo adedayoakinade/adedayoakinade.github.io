@@ -3,9 +3,9 @@ layout: page
 title: Embedded Systems Development
 description: # with background image
 img: assets/img/ES.jpg
-importance: 1
+importance: 3
 category: Carnegie Mellon University
-related_publications: true
+related_publications: false
 ---
 
 # Course description
@@ -18,22 +18,38 @@ Students will learn about different chips such as PIC and Arduino. Assembly, C p
 After completing this course, students will be able to:
 
 - Understand the principles of micro-computers and embedded programming
+
 - Understand hardware and software for embedded microcontrollers
+
 - Understand the interaction of key devices (buses, memory architectures, memory management, device drivers)
+
 - Use simulating tools for designing and developing embedded systems
+
 - Plan installation and maintenance of embedded systems
+
 - Prepare reports and technical reviews for embedded software development reviews
+
 - Carry on independent investigation on embedded systems of their failure
+
 - Demonstrate problem-solving using embedded programs
 
 # Content details
 - Microcontroller Overview
+
 - Microcontroller Architecture
+
 - Microcontroller functional components: Memories, parallel ports, power supply (low power computing), and clock oscillator
+
 - Assembly language and C programming
+
 - Interrupts, counters, and timers
+
 - ES communications Protocols
+
 - Data Acquisition and manipulation
+
 - Arduino programming
+
 - Fault-tolerant embedded systems
+
 - Wireless communication in embedded systems
