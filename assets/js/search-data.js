@@ -433,21 +433,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teaching-robotics-principles-and-practice",
-          title: 'Robotics Principles and Practice',
-          description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/1_teaching/";
             },},{id: "teaching-cognitive-robotics",
           title: 'Cognitive Robotics',
           description: "",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/2_teaching/";
+              window.location.href = "/teaching/CR/";
             },},{id: "teaching-embedded-systems-development",
           title: 'Embedded Systems Development',
           description: "",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/3_teaching/";
+              window.location.href = "/teaching/ESD/";
+            },},{id: "teaching-robotics-principles-and-practice",
+          title: 'Robotics Principles and Practice',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/RPP/";
             },},{id: "teaching-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
