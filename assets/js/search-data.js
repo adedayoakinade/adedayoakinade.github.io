@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teaching-embedded-systems-development",
-          title: 'Embedded Systems Development',
+            },},{id: "teaching-robotics-principles-and-practice",
+          title: 'Robotics Principles and Practice',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
@@ -443,8 +443,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
-            },},{id: "teaching-robotics-principles-and-practice",
-          title: 'Robotics Principles and Practice',
+            },},{id: "teaching-embedded-systems-development",
+          title: 'Embedded Systems Development',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_teaching/";
