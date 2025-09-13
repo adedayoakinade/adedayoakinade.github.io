@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robotics: Principles and Practice
+title: Robotics Principles and Practice
 description: # with background image
 img: assets/img/RPP.jpg
 importance: 1
