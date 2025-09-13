@@ -4,7 +4,7 @@ title: teaching 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Fun
+category: Carnegie Mellon University
 related_publications: true
 ---
 
