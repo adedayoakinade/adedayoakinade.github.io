@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses I have taught.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -438,9 +438,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teaching-teaching-1",
-          title: 'teaching 1',
-          description: "with background image",
+            },},{id: "teaching-embedded-systems-development",
+          title: 'Embedded Systems Development',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
             },},{id: "teaching-project-2",
