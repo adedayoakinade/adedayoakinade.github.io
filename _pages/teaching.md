@@ -5,7 +5,7 @@ title: Teaching
 description: Courses I have taught.
 nav: true
 nav_order: 6
-display_categories: [Carnegie Mellon university, MonashUniversity]
+display_categories: [CarnegieMellonUniversity, MonashUniversity]
 horizontal: true
 ---
 
