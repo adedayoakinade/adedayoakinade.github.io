@@ -10,10 +10,10 @@ horizontal: true
 ---
 
 
-This page contains courses I have taught, organized bu institutions.
+This page contains courses I have taught, organized by institutions.
 <!-- You can convert it to a collection similar to `_projects_/` so that you can have a dedicated page for each course. -->
 
-Organize your courses by years, topics, or universities, however you like!
+<!-- Organize your courses by years, topics, or universities, however you like! -->
 
 
 <!-- pages/teaching.md -->
