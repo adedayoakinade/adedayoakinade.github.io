@@ -438,6 +438,16 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
+            },},{id: "teaching-cognitive-robotics",
+          title: 'Cognitive Robotics',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_teaching/";
+            },},{id: "teaching-robotics-principles-and-practice",
+          title: 'Robotics: Principles and Practice',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/3_teaching/";
             },},{id: "teaching-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
